@@ -6,3 +6,4 @@ This folder stores:
 - App icon
 - Splash screen logo
 - Play Store icon
+  
